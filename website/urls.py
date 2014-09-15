@@ -1,5 +1,5 @@
 from django.conf.urls import patterns, include, url
-from website.views import SignupPage, IndexView
+from website.views import IndexView
 from django.views.generic import TemplateView
 
 from django.contrib import admin
